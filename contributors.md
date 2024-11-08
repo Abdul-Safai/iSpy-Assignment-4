@@ -4,8 +4,8 @@ We'd like to extend our gratitude to the following individuals who have contribu
 
 ## ✨ Contributors
 
-- **[Your Name](https://github.com/your-username)** – Contributor
-- **[Contributor 2](https://github.com/contributor2)** – Contributor
+- **[Abdul Aziz Safai](https://github.com/your-username)** – Contributor
+- **[Dakuma](https://github.com/contributor2)** – Contributor
 - **[Contributor 3](https://github.com/contributor3)** – Contributor
 
 ## 👏 Special Thanks
